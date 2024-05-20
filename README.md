@@ -8,6 +8,7 @@
 
 프로그램 사용방법 
 -> 첨부된 설명서.pdf 파일 확인
+
 ----
 ![메인화면](https://github.com/angrychimpanzee/GoogleScholarScraping-ImpactFactor-matching/blob/main/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-05-19%20230659.png)
 ![메인화면2](https://github.com/angrychimpanzee/GoogleScholarScraping-ImpactFactor-matching/blob/main/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-05-19%20230920.png)
